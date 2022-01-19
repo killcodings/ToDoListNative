@@ -2,4 +2,4 @@
 
 ## Link
 
-> [Open link](https://killcodings.github.io/quizGlo/)
+> [Open link](https://killcodings.github.io/ToDoListNative/)
